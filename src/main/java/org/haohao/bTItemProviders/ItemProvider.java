@@ -1,4 +1,4 @@
-package org.haohao.bTItemProviders.item;
+package org.haohao.bTItemProviders;
 
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;

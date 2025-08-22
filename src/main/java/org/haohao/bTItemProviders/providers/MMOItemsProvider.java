@@ -1,10 +1,10 @@
-package org.haohao.bTItemProviders.item.providers;
+package org.haohao.bTItemProviders.providers;
 
 import net.Indyuce.mmoitems.MMOItems;
 import net.Indyuce.mmoitems.api.Type;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
-import org.haohao.bTItemProviders.item.ItemProvider;
+import org.haohao.bTItemProviders.ItemProvider;
 
 public class MMOItemsProvider implements ItemProvider {
     @Override

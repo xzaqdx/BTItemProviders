@@ -1,9 +1,9 @@
-package org.haohao.bTItemProviders.item.providers;
+package org.haohao.bTItemProviders.providers;
 
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 import org.haohao.bTCore.BTCore;
-import org.haohao.bTItemProviders.item.ItemProvider;
+import org.haohao.bTItemProviders.ItemProvider;
 
 public class BTCoreProvider implements ItemProvider {
     @Override

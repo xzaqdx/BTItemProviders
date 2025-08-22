@@ -1,10 +1,10 @@
-package org.haohao.bTItemProviders.item;
+package org.haohao.bTItemProviders;
 
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.plugin.Plugin;
-import org.haohao.bTItemProviders.item.providers.*;
+import org.haohao.bTItemProviders.providers.*;
 import java.util.*;
 import java.util.stream.Collectors;
 

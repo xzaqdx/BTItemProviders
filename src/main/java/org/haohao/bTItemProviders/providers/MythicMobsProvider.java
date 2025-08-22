@@ -1,9 +1,9 @@
-package org.haohao.bTItemProviders.item.providers;
+package org.haohao.bTItemProviders.providers;
 
 import io.lumine.mythic.bukkit.MythicBukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
-import org.haohao.bTItemProviders.item.ItemProvider;
+import org.haohao.bTItemProviders.ItemProvider;
 
 public class MythicMobsProvider implements ItemProvider {
     @Override
