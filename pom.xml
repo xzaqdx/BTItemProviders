@@ -6,7 +6,7 @@
 
     <groupId>org.haohao</groupId>
     <artifactId>ItemProviders</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>ItemProviders</name>
@@ -118,13 +118,6 @@
             <groupId>dev.lone</groupId>
             <artifactId>api-itemsadder</artifactId>
             <version>4.0.10</version>
-            <scope>provided</scope>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/com.willfp/EcoItems -->
-        <dependency>
-            <groupId>com.willfp</groupId>
-            <artifactId>EcoItems</artifactId>
-            <version>5.63.1</version>
             <scope>provided</scope>
         </dependency>
         <dependency>

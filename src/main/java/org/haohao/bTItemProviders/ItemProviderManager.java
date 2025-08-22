@@ -68,9 +68,6 @@ public final class ItemProviderManager {
                 "itemsadder", new ItemsAdderProvider(),
                 "ia", new ItemsAdderProvider());
 
-        registerIfPluginExists(plugins, "EcoItems",
-                "ecoitems", new EcoItemsProvider(),
-                "ei", new EcoItemsProvider());
     }
 
     private static void registerIfPluginExists(Set<String> enabledPlugins,
